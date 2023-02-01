@@ -6,6 +6,49 @@
     </style>
   </head>
   <body>
-    <!-- Insert the content of your page here -->
+   <p>
+    1. My previous experience with coding:
+    The only class I've taken where I was exposed to HTML/CSS/JS has been Interaction 1. 
+    CSS styling and attaching links resonated with me the most.
+    I found it confusing to control the placement of flex boxes and working with javascript.
+
+    2. I am very excited to learn code and enforce my current knowledge. I'm also quite nervous to work on Visual Studio Code rather than Glitch.
+
+    3. I hope to be able to use coding in my projects in the future. I'd like to be able to create websites to pair with physical projects and just have coding as a skill.
+
+    4. I think HTML is essentially the content of a webpage. You can add text/images/etc on this part. CSS is where you can change the content on html stylistically - ie. color, font, size.
+    Javascript isn't required when creating a webpage but it can enhance a webpage by making it more interactive, for example by hiding and revealing elements.
+
+    5. I'm still not 100% sure what GitHub does, but I think it takes the code and translates it into a webpage? Github helps publish the code online as a link.
+
+   </p>
+Favorite Foods:
+   <h1>
+sushi
+   </h1>
+   <h2>
+    ice cream - strawberry/fudge if I had to choose
+   </h2>
+   <h3>
+    mom's cooking
+   </h3>
+   <h4>
+burger and fries
+   </h4>
+   <h5>
+    burrata cheese
+   </h5>
+   <h6>
+    bok choy - favorite vegetable
+   </h6>
+<ul>
+  <a>https://lineto.com/#supreme-desktop </a>
+  I like to look at typefaces on lineto because I think their presentation of the type is quite interesting. I like how everything is laid out on the website.
+  <a> https://bloomtype.com/ </a>
+The typefaces on Bloom are also interesting to look at. I also like the flow of the website and I think the format itself is also inspiring.
+  <a>https://www.are.na/</a>
+  I like to use Arena for graphic design inspiration. Arena feels a lot more up to date than other inspiration sites such as pinterest.
+</ul>
+
   </body>
 </html>
